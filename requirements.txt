@@ -4,3 +4,5 @@ ultralytics
 opencv-python-headless
 Pillow
 torch
+libgl1
+libglib2.0-0
